@@ -1,6 +1,6 @@
 # Challenge-21
 
-![Image 9](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
+![Image 9](https://github.com/Willykman/Challenge-21/blob/main/image%209.png?raw=true)
 create a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
 # Deploy the KaseiCoinCrowdsale smart contract
