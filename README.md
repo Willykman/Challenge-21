@@ -28,6 +28,7 @@ From here on you can run the various functions to purchase and track the tokens 
 **Screenshots of contract steps**
 ![Image 4](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
 ![Image 5](https://github.com/Willykman/Challenge-21/blob/main/Image%205.png?raw=true)
+![Image 6](https://github.com/Willykman/Challenge-21/blob/main/Image%206.png?raw=true)
 # Technologies
 The application is developed using:
 
