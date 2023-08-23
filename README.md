@@ -25,6 +25,8 @@ copy and paste the contract address and click At Address
 You can see that now all the functions in both the contracts are visible now - KaseiCoinCrowdsale Contract, KaseiCoin
 From here on you can run the various functions to purchase and track the tokens etc. See the Contract Deployment and Evaluation Evidence section above for the sample tests.
 
+**Screenshots of contract steps**
+![Image 20](https://github.com/Willykman/Challenge-20/raw/main/image%2020.png)
 # Technologies
 The application is developed using:
 
