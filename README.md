@@ -8,9 +8,7 @@ The contracts are deployed using Remix IDE.
 
 
 **Screenshots of contract steps**
-![Image 1](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
-![Image 2](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
-![Image 3](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
+
 ![Image 4](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
 ![Image 5](https://github.com/Willykman/Challenge-21/blob/main/Image%205.png?raw=true)
 ![Image 6](https://github.com/Willykman/Challenge-21/blob/main/Image%206.png?raw=true)
@@ -22,4 +20,4 @@ Language: Solidity
 Development Metamask, Ganache, Remix
 
 # Contributors
-William Korman with the help of the starter code and the weekly module
+William Korman with the help of the starter code, TA's and the weekly module
