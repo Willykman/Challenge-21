@@ -26,7 +26,7 @@ You can see that now all the functions in both the contracts are visible now - K
 From here on you can run the various functions to purchase and track the tokens etc. See the Contract Deployment and Evaluation Evidence section above for the sample tests.
 
 **Screenshots of contract steps**
-![Image 20](https://github.com/Willykman/Challenge-20/raw/main/image%2020.png)
+![Image 20]([https://github.com/Willykman/Challenge-20/raw/main/image%2020.png](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
 # Technologies
 The application is developed using:
 
