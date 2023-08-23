@@ -6,29 +6,15 @@ For the purpose of crowdsale, a deployer contract KaseiCoinCrowdsaleDeployer was
 
 The contracts are deployed using Remix IDE.
 
-Invoke Remix IDE - https://remix.ethereum.org/.
-Open Files in the File section to navigate to and select KaseiCoinCrowdsale.sol
-Click on compile icon to compile the contract
-Deploy by clicking on the icon below the Compile icon.
-Now click to the Metmask (fox) sign and select the account for deployment
-Click on the Contract list to select the deployer contract
-Fill the deployer fields
-Get the wallet address from Ganache.
-Click on Transact to Deploy
-Now, deploy the crowdsale contract to Remix by following
-click on crowdsale from the Deployed Contracts, and copy the address
-select the crowdsale contract from the list of contracts
-paste the address copied above at field next to At Address and click on At Address
-Follow the same procedure as last 3 steps for the token contract
-select KaseiCoin token
-copy and paste the contract address and click At Address
-You can see that now all the functions in both the contracts are visible now - KaseiCoinCrowdsale Contract, KaseiCoin
-From here on you can run the various functions to purchase and track the tokens etc. See the Contract Deployment and Evaluation Evidence section above for the sample tests.
 
 **Screenshots of contract steps**
+![Image 1](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
+![Image 2](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
+![Image 3](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
 ![Image 4](https://github.com/Willykman/Challenge-21/blob/main/Image%204.png?raw=true)
 ![Image 5](https://github.com/Willykman/Challenge-21/blob/main/Image%205.png?raw=true)
 ![Image 6](https://github.com/Willykman/Challenge-21/blob/main/Image%206.png?raw=true)
+![Image 6](https://github.com/Willykman/Challenge-21/blob/main/Image%207.png?raw=true)
 # Technologies
 The application is developed using:
 
